@@ -1,1 +1,1 @@
-# CodeGuru_BadCode_Sample
+# CodeGuru_BadJavaCode_Sample
